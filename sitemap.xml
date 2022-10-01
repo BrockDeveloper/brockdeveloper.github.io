@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://brockdeveloper.github.io/projects/</loc>
+    <lastmod>2020-02-13T18:33:00+00:00</lastmod>
+  </url><url>
+    <loc>https://brockdeveloper.github.io/contact/</loc>
+    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://brockdeveloper.github.io/categories/</loc>
+  </url><url>
+    <loc>https://brockdeveloper.github.io/</loc>
+  </url><url>
+    <loc>https://brockdeveloper.github.io/tags/</loc>
+  </url>
+</urlset>
