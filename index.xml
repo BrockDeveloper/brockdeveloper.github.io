@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I&#39;m Brock DEV</title>
-    <link>https://brockdeveloper.github.io/</link>
+    <link>https://brockdev.it/</link>
     <description>Recent content on I&#39;m Brock DEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Brock DEV</copyright><atom:link href="https://brockdeveloper.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://brockdeveloper.github.io/projects/</link>
+      <link>https://brockdev.it/projects/</link>
       <pubDate>Thu, 13 Feb 2020 18:33:00 +0000</pubDate>
       
-      <guid>https://brockdeveloper.github.io/projects/</guid>
+      <guid>https://brockdev.it/projects/</guid>
       <description>These are my main projects. You can find all of them on my GitHub page.
 Iliad API Unofficial
 An unofficial Iliad REST API. Retrive data as Json response from the official Iliad website. Repository Test</description>
@@ -20,10 +20,10 @@ An unofficial Iliad REST API. Retrive data as Json response from the official Il
     
     <item>
       <title>Contact</title>
-      <link>https://brockdeveloper.github.io/contact/</link>
+      <link>https://brockdev.it/contact/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
-      <guid>https://brockdeveloper.github.io/contact/</guid>
+      <guid>https://brockdev.it/contact/</guid>
       <description>Contact Send me an email to: info@brockdev.it
 Visit my Github profile: Brock DEV
 Follow me on Twitter: _ABroccoletti_</description>
