@@ -44,6 +44,12 @@ nav a {
   border-bottom: 1px dotted #000;
 }
 
+.link {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1px dotted #000;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -59,4 +65,9 @@ footer {
 
 .spacer {
   height: 2em;
+}
+
+.contacts {
+  text-align: center;
+  line-height: 1.6;
 }
